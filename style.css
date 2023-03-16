@@ -1,0 +1,144 @@
+*
+{
+  padding: 0%;
+  margin: 0px;
+}
+.First-icon
+{
+    display: flex;
+    gap: 20px;
+   padding: 20px;
+}
+.second-icon
+{
+   display: flex;
+   gap: 20px;
+   padding: 20px;
+
+}
+.third-icon
+{
+    display: flex;
+   gap: 20px;
+   padding: 20px;
+
+}
+
+.fourth-icon
+{
+    display: flex;
+   gap: 20px;
+   padding: 20px;
+
+}
+.fifth-icon
+{
+    display: flex;
+   gap: 20px;
+   padding: 20px;
+
+}
+.sixth-icon
+{
+    display: flex;
+   gap: 20px;
+   padding: 20px;
+
+}
+.seventh-icon
+{
+    display: flex;
+   gap: 20px;
+   padding: 20px;
+
+}
+.eighth-icon
+{
+    display: flex;
+   gap: 20px;
+   padding: 20px;
+   padding-top: 60px;
+
+}
+.container
+{
+    display: flex;
+    gap:350px;
+}
+.upper-sec
+{
+    display: flex;
+    gap: 100px;
+}
+.side-1st-sec
+{
+    display: flex;
+    gap: 30px;
+    padding: 30px;
+}
+.follow-button
+{
+    background-color:royalblue;
+    color:white;
+    padding: 4px;
+    border-radius: 5px;
+}
+.side-2nd-sec
+{
+    display: flex;
+    gap: 30px;
+    padding: 30px;
+}
+.side-3rd-sec
+{
+    padding-left: 30px;
+}
+.profile-picture
+{
+    padding-top: 80px; 
+    border-radius: 50%;
+    
+}
+ .middle-sec
+ {
+    display: flex;
+    padding-top: 70px;
+    gap: 45px;
+    
+ }
+ .caption1
+ {
+    padding-top: 10px;
+    padding-right: 30px;
+ }
+ .caption2
+ {
+    padding-left: 10px;
+ }
+ .lower-upper-sec
+ {
+    display: flex;
+    gap: 50px;
+    padding: 20px;
+    padding-left: 100px;
+ }
+ .first 
+ {
+    display: flex;
+    gap: 10px;
+ }
+ .second 
+ {
+    display: flex;
+    gap: 10px;
+ }
+ .third 
+ {
+    display: flex;
+    gap: 10px;
+ }
+ .picture 
+ {
+    display: flex;
+ }
+ 
